@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os, sys, re
 
 if len(sys.argv) < 2:
